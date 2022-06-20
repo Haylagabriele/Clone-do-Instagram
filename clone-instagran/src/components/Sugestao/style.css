@@ -1,0 +1,103 @@
+.container-sugestao{
+    margin-top: 18px;
+}
+.header-sugestao{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.user-infos-sugestao{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    flex: 1;
+}
+
+.user-infos-sugestao button{
+    color:#0095f6;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.user-infos-sugestao .infos span{
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.user-infos-sugestao .infos p{
+    font-size: 13px;
+    color: var(--secundary);
+}
+
+.header-main-sugestao{
+display: flex;
+justify-content: space-between;
+
+margin: 20px 0 10px 0;
+
+}
+
+.header-main-sugestao p{
+    font-size: 15px;
+    color: var(--secundary);
+
+    font-weight: 500;
+}
+.header-main-sugestao span{
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.user-sugestao{
+    margin-top: 5px;
+
+}
+.infos-sugestao{
+    margin: 15´x 0 0 5px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+.infos-sugestao img{
+    width: 36px;
+    height: 36px;
+    border-radius: 100%;
+    cursor: pointer;
+
+}
+
+.info-segestao{
+    flex: 1;
+}
+.info-segestao span{
+font-size: 15px;
+font-weight: 600;
+cursor: pointer;
+}
+
+.info-segestao p{
+    font-size: 13px;
+    color: var(--secundary);
+    margin-top: 3px;
+    }
+    .infos-sugestao .follow{
+        font-size: 12px;
+        cursor: pointer;
+        color: #0095f6;
+        font-weight: 500;
+    }
+
+    .footer-sugetao{
+        margin-top: 25px;
+        flex: 1;
+    }
+    .footer-sugetao p{
+        font-size: 12px;
+        color: #c7c7c7;
+        margin-bottom: 15px;
+        cursor: pointer;
+    }
+    
