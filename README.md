@@ -1,10 +1,7 @@
 # Clone-do-Instagram
 O Instagram clone é um projeto feito para estudo e treinamento de React Native. Foi feito uma cópia do feed do Instagram com scrollinfinito.
 
-🔨Tecnologias
-JavaScript
-Reagir nativo
-Exposição
+🔨JavaScript Technologies React Native Exposure
 
 🔨Conceitos usados no projeto:
 
